@@ -1,0 +1,4 @@
+adsy=raw_input("ÝSÝM")
+for xx in adsy:
+    print"Harf =",xx,"ascii code",ord(xx)
+    

@@ -1,0 +1,4 @@
+yas = input("Dönüþecek sayý:")
+print "ikilik karþýlýðý=",bin(yas)
+
+print "onaltýlýk karþýlýðý=",hex(yas)
